@@ -1,0 +1,15 @@
+D:\DotNet-Programms\Array\bin\Debug\net8.0\Array.exe
+D:\DotNet-Programms\Array\bin\Debug\net8.0\Array.deps.json
+D:\DotNet-Programms\Array\bin\Debug\net8.0\Array.runtimeconfig.json
+D:\DotNet-Programms\Array\bin\Debug\net8.0\Array.dll
+D:\DotNet-Programms\Array\bin\Debug\net8.0\Array.pdb
+D:\DotNet-Programms\Array\obj\Debug\net8.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet-Programms\Array\obj\Debug\net8.0\Array.AssemblyInfoInputs.cache
+D:\DotNet-Programms\Array\obj\Debug\net8.0\Array.AssemblyInfo.cs
+D:\DotNet-Programms\Array\obj\Debug\net8.0\Array.csproj.CoreCompileInputs.cache
+D:\DotNet-Programms\Array\obj\Debug\net8.0\Array.dll
+D:\DotNet-Programms\Array\obj\Debug\net8.0\refint\Array.dll
+D:\DotNet-Programms\Array\obj\Debug\net8.0\Array.pdb
+D:\DotNet-Programms\Array\obj\Debug\net8.0\Array.genruntimeconfig.cache
+D:\DotNet-Programms\Array\obj\Debug\net8.0\ref\Array.dll
+D:\DotNet-Programms\Array\obj\Debug\net8.0\Array.sourcelink.json
